@@ -1,5 +1,4 @@
-package
-        HW1;
+package HW1;
 //   Yuriy Lomtev, 16/02/2022
 //        В итоге должно получиться похожее:
 //      public static void main(String[] args) {
